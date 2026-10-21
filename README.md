@@ -59,6 +59,14 @@ npx hardhat compile
 
 ```
 
+Running Audit Script
+# Run python simulation/audit script
+python audit_impact.py
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 
 # CCI---AI--Immigration-Hub
