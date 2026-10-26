@@ -258,3 +258,4 @@ Finanțare asigurată prin investitori cripto și fonduri
 descentralizate
 69.000 EUR
 4
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
